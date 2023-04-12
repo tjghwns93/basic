@@ -1,0 +1,16 @@
+.one{
+    /* one의 공간 width + padding + border =  */
+    border: 2px solid blue;
+    padding: 20px; /* 나의 안쪽공간 */
+    width: 200px;
+    box-sizing: border-box; /* 넚이에 padding과 border를 포함. */
+    margin: 20px; /* 나의 밖깥공간 */
+}
+.two{
+    border: 1px solid pink;
+    padding: 20px;
+    margin: 30px;
+}
+.three{
+    border: 1px solid goldenrod;
+}
